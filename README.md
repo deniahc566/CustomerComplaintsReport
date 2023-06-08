@@ -8,4 +8,4 @@ Client Satisfaction.
 Worst offending brokers.  
 ## Schema 
 ![Schema](/images/Schema.png)
-
+The dataset includes ComplainsData_Tbl as fact table and other tables as dimension tables.
