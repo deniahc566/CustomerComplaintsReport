@@ -1,6 +1,6 @@
 # CustomerComplaintsReport
 ## About the dataset
-[The original dataset](/Insurance - Complain Administration.xlsx)  
+[The original dataset](/"Insurance - Complain Administration.xlsx")  
 Contains the complaints historical data from a large insurance company undergoing their internal audit process.
 ## Objectives
 Analyze the complaints historical data, key objectives includes:  
@@ -15,4 +15,5 @@ The dataset includes ComplainsData_Tbl as fact table and other tables as dimensi
 ## Dashboard Content
 [PowerBI Dashboard File](/ComplaintsDashboard.pbix)  
 ### Table of Content
-![Table of Content](/images/Table_of_Content)
+![Table of Content](/images/Table_of_Content.png)  
+The first page of the dashboard is the Table of Content page presenting other pages of the dashboard with links to them for easy navigations.
