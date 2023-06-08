@@ -1,2 +1,10 @@
 # CustomerComplaintsReport
-An analysis of complaints historical data from 2018 to 2020 broken down by dimensions, the complaints status time, clients' satisfaction and broker performance, visualized via a Power BI Dashboard.
+## Objectives
+Analyze the complaints historical data, key objectives includes:
+The most recent 2 years of data is what most stakeholders are interested in.  
+The ability to see status changes and when they happened.  
+Complaints broken down by the dimensions.  
+Client Satisfaction.  
+Worst offending brokers.  
+## Schema 
+
