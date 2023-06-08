@@ -23,7 +23,7 @@ The first page of the dashboard is the Table of Content page presenting other pa
 ![General Overview](/images/General_Overview.png)
 The General Overview page presents some of the most important metrics, the distribution of complaints overtime as well as how the percentage of clients varies by states and their population.
 ### Complaints Distribution
-![Complaints Distribution](/images/Complaints_Distribution.png)
+![Complaints Distribution](/images/Complaint_Distribution.png)
 This page digs deep into how the number of complaints is distributed by different dimensions.
 ### Complaints Handling Days
 ![Complaints Handling Days](/images/Complaints_Handling_Days.png)
