@@ -11,7 +11,8 @@ Analyze the complaints historical data, key objectives includes:
 - Present the Worst offending brokers.  
 ## Schema 
 ![Schema](/images/Schema.png)
-The dataset includes ComplainsData_Tbl as fact table and other tables as dimension tables.
+The dataset includes ComplainsData_Tbl as fact table and other tables as dimension tables.  
+The Calendar Table and Short Month Table were added via Power Query and DAX expressions.
 ## Dashboard Content
 The complete dashboard can be found here  
 [Complaints Dashboard PowerBI File](/ComplaintsDashboard.pbix)  
@@ -28,13 +29,13 @@ This page digs deep into how the number of complaints is distributed by differen
 ![Complaints Handling Days](/images/Complaints_Handling_Days.png)
 This page looks for insight in how the complaints handling process are performing by different dimensions.
 ### Complaints Status
-![Complaints Status](/images/Complaints_Status.png)
+![Complaints Status](/images/Complaints_Statuses.png)
 This page looks into how each stages of the complaints handling process is performing to identify problems with them.
 ### Clients Satisfaction
 ![Clients Satisfaction](/images/Clients_Satisfaction.png)
 Clients Satisfaction Level is extremely important and this page is intended for exploring how Clients Satisfaction Level varies between dimensions. However, a big part of clients satisfaction data seems to be missing.
 ### Brokers Performance Measurement
-![Brokers Performance Measurement](/images/Broker_Performance.png)
+![Brokers Performance Measurement](/images/Brokers_Performance.png)
 This page divides brokers into different segments base on their performance.
 ### Key Findings
 ![Key Findings](/images/Key_Findings.png)
