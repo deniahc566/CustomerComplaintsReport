@@ -1,6 +1,6 @@
 # CustomerComplaintsReport
 ## About the dataset
-[The original dataset](/master/"Insurance - Complain Administration.xlsx")  
+[The original data set](/Insurance - Complain Administration.xlsx)  
 Contains the complaints historical data from a large insurance company undergoing their internal audit process.
 ## Objectives
 Analyze the complaints historical data, key objectives includes:  
