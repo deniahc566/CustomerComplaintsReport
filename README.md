@@ -7,5 +7,5 @@ Complaints broken down by the dimensions.
 Client Satisfaction.  
 Worst offending brokers.  
 ## Schema 
-![Schema](/assets/images/Schema.png)
+![Schema](/images/Schema.png)
 
