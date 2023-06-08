@@ -18,3 +18,24 @@ The complete dashboard can be found here
 ### Table of Content
 ![Table of Content](/images/Table_of_Content.png)  
 The first page of the dashboard is the Table of Content page presenting other pages of the dashboard with links to them for easy navigations.
+### General Overview
+![General Overview](/images/General_Overview.png)
+The General Overview page presents some of the most important metrics, the distribution of complaints overtime as well as how the percentage of clients varies by states and their population.
+### Complaints Distribution
+![Complaints Distribution](/images/Complaints_Distribution.png)
+This page digs deep into how the number of complaints is distributed by different dimensions.
+### Complaints Handling Days
+![Complaints Handling Days](/images/Complaints_Handling_Days.png)
+This page looks for insight in how the complaints handling process are performing by different dimensions.
+### Complaints Status
+![Complaints Status](/images/Complaints_Status.png)
+This page looks into how each stages of the complaints handling process is performing to identify problems with them.
+### Clients Satisfaction
+![Clients Satisfaction](/images/Clients_Satisfaction.png)
+Clients Satisfaction Level is extremely important and this page is intended for exploring how Clients Satisfaction Level varies between dimensions. However, a big part of clients satisfaction data seems to be missing.
+### Brokers Performance Measurement
+![Brokers Performance Measurement](/images/Broker_Performance.png)
+This page divides brokers into different segments base on their performance.
+### Key Findings
+![Key Findings](/images/Key_Findings.png)
+This page summarize all the most important insights discovered by the visualization as well as giving practical suggestions to resovle the problems.
